@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revolution per Minute</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        body {
+            background-color: #800000; /* Background color */
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        #map {
+            height: 600px;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        #rpm {
+            font-size: 18px;
+            color: #ffff;
+        }
+
+        .source-link {
+            position: absolute; /* To place bottom right corner */
+            bottom: 20px;
+            right: 50px;
+            font-size: 14px;
+            color: #fff;
+        }
+
+        .source-link a {
+            color: #007bff; /* Link color */
+            text-decoration: none;
+        }
+
+        .source-link a:hover {
+			color: #007bff; /* Link color */
+            text-decoration: underline;
+        }
+
+        .additional-info {
+            position: absolute; /* To place bottom left corner */
+            bottom: 10px; 
+            left: 10px; 
+            font-size: 14px; 
+            color: #fff;
+        }
+    </style>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js" defer></script>
+    <script src="script.js" defer></script>
+    <script src="map.js" defer></script>
+</head>
+<body>
+    <p id="rpm">Loading...</p>
+    <div id="map"></div>
+    <div class="source-link">
+        <a href="https://en.m.wikipedia.org/wiki/List_of_revolutions_and_rebellions" target="_blank" rel="noopener noreferrer">Source: Wikipedia list of revolutions and rebellions</a>
+    </div>
+    <div class="additional-info">
+		<a href="https://en.m.wikipedia.org/wiki/Jumla_rebellion" target="_blank" rel="noopener noreferrer">Help me complete this database</a>
+    </div>
+</body>
+</html>
+

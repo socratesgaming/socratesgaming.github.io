@@ -1,0 +1,452 @@
+{
+  "revolutions": [
+  {
+    "name": "Brabant Revolution",
+    "date": "1789",
+    "location": "Austrian Netherlands",
+    "latitude": 50.8709,
+    "longitude": 4.6983,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Brabant_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Brabant_Revolution</a>"
+  },
+  {
+    "name": "Irish Rebellion of 1798",
+    "date": "1798",
+    "location": "Ireland",
+    "latitude": 53.4129,
+    "longitude": -8.2439,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Irish_Rebellion_of_1798' target='_blank'>https://en.m.wikipedia.org/wiki/Irish_Rebellion_of_1798</a>"
+  },
+  {
+    "name": "Haitian Revolution",
+    "date": "1791",
+    "location": "Haiti (Saint-Domingue)",
+    "latitude": 18.9712,
+    "longitude": -72.2852,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Haitian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Haitian_Revolution</a>"
+  },
+  {
+    "name": "Greek War of Independence",
+    "date": "1821",
+    "location": "Greece",
+    "latitude": 39.0742,
+    "longitude": 21.8243,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Greek_War_of_Independence' target='_blank'>https://en.m.wikipedia.org/wiki/Greek_War_of_Independence</a>"
+  },
+  {
+    "name": "Belgian Revolution",
+    "date": "1830",
+    "location": "Belgium",
+    "latitude": 50.8503,
+    "longitude": 4.3517,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Belgian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Belgian_Revolution</a>"
+  },
+  {
+    "name": "July Revolution",
+    "date": "1830",
+    "location": "France",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/July_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/July_Revolution</a>"
+  },
+  {
+    "name": "Taiping Rebellion",
+    "date": "1850",
+    "location": "China",
+    "latitude": 35.8617,
+    "longitude": 104.1954,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Taiping_Rebellion' target='_blank'>https://en.m.wikipedia.org/wiki/Taiping_Rebellion</a>"
+  },
+  {
+    "name": "Indian Rebellion of 1857",
+    "date": "1857",
+    "location": "India",
+    "latitude": 20.5937,
+    "longitude": 78.9629,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Indian_Rebellion_of_1857' target='_blank'>https://en.m.wikipedia.org/wiki/Indian_Rebellion_of_1857</a>"
+  },
+  {
+    "name": "Russian Revolution of 1905",
+    "date": "1905",
+    "location": "Russia",
+    "latitude": 55.7558,
+    "longitude": 37.6176,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Russian_Revolution_of_1905' target='_blank'>https://en.m.wikipedia.org/wiki/Russian_Revolution_of_1905</a>"
+  },
+  {
+    "name": "Egyptian Revolution of 1952",
+    "date": "1952",
+    "location": "Egypt",
+    "latitude": 26.8205,
+    "longitude": 30.8025,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Egyptian_Revolution_of_1952' target='_blank'>https://en.m.wikipedia.org/wiki/Egyptian_Revolution_of_1952</a>"
+  },
+  {
+    "name": "Hungarian Revolution of 1848",
+    "date": "1848",
+    "location": "Hungary",
+    "latitude": 47.1625,
+    "longitude": 19.5033,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Hungarian_Revolution_of_1848' target='_blank'>https://en.m.wikipedia.org/wiki/Hungarian_Revolution_of_1848</a>"
+  },
+  {
+    "name": "German Revolution",
+    "date": "1918",
+    "location": "Germany",
+    "latitude": 51.1657,
+    "longitude": 10.4515,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/German_Revolution_of_1918%E2%80%931919' target='_blank'>https://en.m.wikipedia.org/wiki/German_Revolution_of_1918%E2%80%931919</a>"
+  },
+  {
+    "name": "Chinese Revolution",
+    "date": "1949",
+    "location": "China",
+    "latitude": 35.8617,
+    "longitude": 104.1954,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Chinese_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Chinese_Revolution</a>"
+  },
+  {
+    "name": "Cuban Revolution",
+    "date": "1953",
+    "location": "Cuba",
+    "latitude": 21.5218,
+    "longitude": -77.7812,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Cuban_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Cuban_Revolution</a>"
+  },
+  {
+    "name": "Iranian Revolution",
+    "date": "1979",
+    "location": "Iran",
+    "latitude": 32.4279,
+    "longitude": 53.6880,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Iranian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Iranian_Revolution</a>"
+  },
+  {
+    "name": "Brazilian Revolution",
+    "date": "1930",
+    "location": "Brazil",
+    "latitude": -14.2350,
+    "longitude": -51.9253,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Brazilian_Revolution_of_1930' target='_blank'>https://en.m.wikipedia.org/wiki/Brazilian_Revolution_of_1930</a>"
+  },
+  {
+    "name": "Angolan Revolution",
+    "date": "1975",
+    "location": "Angola",
+    "latitude": -11.2027,
+    "longitude": 17.8739,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Angolan_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Angolan_Revolution</a>"
+  },
+  {
+    "name": "Portuguese Revolution",
+    "date": "1974",
+    "location": "Portugal",
+    "latitude": 39.3999,
+    "longitude": -8.2245,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Portuguese_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Portuguese_Revolution</a>"
+  },
+  {
+    "name": "Tunisian Revolution",
+    "date": "2010",
+    "location": "Tunisia",
+    "latitude": 33.8869,
+    "longitude": 9.5375,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Tunisian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Tunisian_Revolution</a>"
+  },
+  {
+    "name": "Ukrainian Revolution of Dignity",
+    "date": "2014",
+    "location": "Ukraine",
+    "latitude": 48.3794,
+    "longitude": 31.1656,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Ukrainian_Revolution_of_Dignity' target='_blank'>https://en.m.wikipedia.org/wiki/Ukrainian_Revolution_of_Dignity</a>"
+  },
+  {
+    "name": "Colombian Revolution",
+    "date": "1810",
+    "location": "Colombia",
+    "latitude": 4.5709,
+    "longitude": -74.2973,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Colombian_War_of_Independence' target='_blank'>https://en.m.wikipedia.org/wiki/Colombian_War_of_Independence</a>"
+  },
+  {
+    "name": "Venezuelan War of Independence",
+    "date": "1810",
+    "location": "Venezuela",
+    "latitude": 6.4238,
+    "longitude": -66.5897,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Venezuelan_War_of_Independence' target='_blank'>https://en.m.wikipedia.org/wiki/Venezuelan_War_of_Independence</a>"
+  },
+  {
+    "name": "Nicaraguan Revolution",
+    "date": "1979",
+    "location": "Nicaragua",
+    "latitude": 12.8654,
+    "longitude": -85.2072,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Nicaraguan_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Nicaraguan_Revolution</a>"
+  },
+  {
+    "name": "Zapatista Uprising",
+    "date": "1994",
+    "location": "Mexico",
+    "latitude": 23.6345,
+    "longitude": -102.5528,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Zapatista_Uprising' target='_blank'>https://en.m.wikipedia.org/wiki/Zapatista_Uprising</a>"
+  },
+  {
+    "name": "Soviet Revolution",
+    "date": "1917",
+    "location": "Russia",
+    "latitude": 55.7558,
+    "longitude": 37.6176,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Russian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Russian_Revolution</a>"
+  },
+  {
+    "name": "Spanish American Wars of Independence",
+    "date": "1808-1826",
+    "location": "Latin America",
+    "latitude": -15.0000,
+    "longitude": -60.0000,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Spanish_American_Wars_of_Independence' target='_blank'>https://en.m.wikipedia.org/wiki/Spanish_American_Wars_of_Independence</a>"
+  },
+  {
+    "name": "Czech National Revival",
+    "date": "19th century",
+    "location": "Czech Republic",
+    "latitude": 49.8175,
+    "longitude": 15.4730,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Czech_National_Revival' target='_blank'>https://en.m.wikipedia.org/wiki/Czech_National_Revival</a>"
+  },
+  {
+    "name": "Iraqi Revolution",
+    "date": "1958",
+    "location": "Iraq",
+    "latitude": 33.2232,
+    "longitude": 43.6793,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Iraqi_Revolution_of_1958' target='_blank'>https://en.m.wikipedia.org/wiki/Iraqi_Revolution_of_1958</a>"
+  },
+  {
+    "name": "Samoan Revolution",
+    "date": "1994",
+    "location": "Samoa",
+    "latitude": -13.7590,
+    "longitude": -172.1046,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Samoan_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Samoan_Revolution</a>"
+  },
+  {
+    "name": "French-Algerian War",
+    "date": "1954-1962",
+    "location": "Algeria",
+    "latitude": 28.0339,
+    "longitude": 1.6596,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Algerian_War' target='_blank'>https://en.m.wikipedia.org/wiki/Algerian_War</a>"
+  },
+  {
+    "name": "Sudanese Revolution",
+    "date": "2018-2019",
+    "location": "Sudan",
+    "latitude": 12.8628,
+    "longitude": 30.2176,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Sudanese_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Sudanese_Revolution</a>"
+  },
+  {
+    "name": "Nepalese Revolution",
+    "date": "1990",
+    "location": "Nepal",
+    "latitude": 28.3949,
+    "longitude": 84.1240,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Nepalese_Revolution_of_1990' target='_blank'>https://en.m.wikipedia.org/wiki/Nepalese_Revolution_of_1990</a>"
+  },
+  {
+    "name": "Ethiopian Revolution",
+    "date": "1974",
+    "location": "Ethiopia",
+    "latitude": 9.1450,
+    "longitude": 40.4897,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Ethiopian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Ethiopian_Revolution</a>"
+  },
+  {
+    "name": "Libyan Civil War",
+    "date": "2011",
+    "location": "Libya",
+    "latitude": 26.3351,
+    "longitude": 17.2283,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Libyan_Civil_War_(2011)' target='_blank'>https://en.m.wikipedia.org/wiki/Libyan_Civil_War_(2011)</a>"
+  },
+  {
+    "name": "Yugoslav Wars",
+    "date": "1991-2001",
+    "location": "Former Yugoslavia",
+    "latitude": 44.0165,
+    "longitude": 21.0059,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Yugoslav_Wars' target='_blank'>https://en.m.wikipedia.org/wiki/Yugoslav_Wars</a>"
+  },
+  {
+    "name": "Mauritian Revolution",
+    "date": "1968",
+    "location": "Mauritius",
+    "latitude": -20.3484,
+    "longitude": 57.5522,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Mauritian_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Mauritian_Revolution</a>"
+  },
+  {
+    "name": "Soviet-Afghan War",
+    "date": "1979-1989",
+    "location": "Afghanistan",
+    "latitude": 33.9391,
+    "longitude": 67.7099,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Soviet–Afghan_War' target='_blank'>https://en.m.wikipedia.org/wiki/Soviet–Afghan_War</a>"
+  },
+  {
+    "name": "Belarusian Revolution",
+    "date": "2020",
+    "location": "Belarus",
+    "latitude": 53.7098,
+    "longitude": 27.9534,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Belarusian_Revolution_of_2020' target='_blank'>https://en.m.wikipedia.org/wiki/Belarusian_Revolution_of_2020</a>"
+  },
+  {
+    "name": "Guatemalan Revolution",
+    "date": "1944-1954",
+    "location": "Guatemala",
+    "latitude": 15.7835,
+    "longitude": -90.2308,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Guatemalan_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Guatemalan_Revolution</a>"
+  },
+  {
+    "name": "South Korean Revolution",
+    "date": "1960",
+    "location": "South Korea",
+    "latitude": 35.9078,
+    "longitude": 127.7669,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/April_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/April_Revolution</a>"
+  },
+  {
+    "name": "Algerian War of Independence",
+    "date": "1954-1962",
+    "location": "Algeria",
+    "latitude": 28.0339,
+    "longitude": 1.6596,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Algerian_War' target='_blank'>https://en.m.wikipedia.org/wiki/Algerian_War</a>"
+  },
+  {
+    "name": "Romanian Revolution",
+    "date": "1989",
+    "location": "Romania",
+    "latitude": 45.9432,
+    "longitude": 24.9668,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Romanian_Revolution_of_1989' target='_blank'>https://en.m.wikipedia.org/wiki/Romanian_Revolution_of_1989</a>"
+  },
+  {
+    "name": "Revolution of 1905",
+    "date": "1905",
+    "location": "Russia",
+    "latitude": 55.7558,
+    "longitude": 37.6176,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Russian_Revolution_of_1905' target='_blank'>https://en.m.wikipedia.org/wiki/Russian_Revolution_of_1905</a>"
+  },
+  {
+    "name": "Jamaican Revolution",
+    "date": "1960s",
+    "location": "Jamaica",
+    "latitude": 18.1096,
+    "longitude": -77.2975,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/History_of_Jamaica#The_Revolutionary_Period' target='_blank'>https://en.m.wikipedia.org/wiki/History_of_Jamaica#The_Revolutionary_Period</a>"
+  },
+  {
+    "name": "Tajikistani Civil War",
+    "date": "1992-1997",
+    "location": "Tajikistan",
+    "latitude": 38.8610,
+    "longitude": 71.2761,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Tajikistani_Civil_War' target='_blank'>https://en.m.wikipedia.org/wiki/Tajikistani_Civil_War</a>"
+  },
+  {
+    "name": "Bahraini Revolution",
+    "date": "2011",
+    "location": "Bahrain",
+    "latitude": 25.9304,
+    "longitude": 50.6378,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Bahraini_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Bahraini_Revolution</a>"
+  },
+  {
+    "name": "Sierra Leone Civil War",
+    "date": "1991-2002",
+    "location": "Sierra Leone",
+    "latitude": 8.4600,
+    "longitude": -11.7799,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Sierra_Leone_Civil_War' target='_blank'>https://en.m.wikipedia.org/wiki/Sierra_Leone_Civil_War</a>"
+  },
+  {
+    "name": "Yemeni Revolution",
+    "date": "2011",
+    "location": "Yemen",
+    "latitude": 15.5526,
+    "longitude": 48.5164,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Yemeni_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Yemeni_Revolution</a>"
+  },
+  {
+    "name": "Syrian Civil War",
+    "date": "2011-present",
+    "location": "Syria",
+    "latitude": 34.8021,
+    "longitude": 38.9968,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Syrian_Civil_War' target='_blank'>https://en.m.wikipedia.org/wiki/Syrian_Civil_War</a>"
+  },
+  {
+    "name": "Somali Civil War",
+    "date": "1991-present",
+    "location": "Somalia",
+    "latitude": 5.1521,
+    "longitude": 46.1996,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Somali_Civil_War' target='_blank'>https://en.m.wikipedia.org/wiki/Somali_Civil_War</a>"
+  },
+  {
+    "name": "Lao Revolution",
+    "date": "1975",
+    "location": "Laos",
+    "latitude": 19.8563,
+    "longitude": 102.4955,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Lao_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Lao_Revolution</a>"
+  },
+  {
+    "name": "Dominican Republic Revolution",
+    "date": "1965",
+    "location": "Dominican Republic",
+    "latitude": 18.7357,
+    "longitude": -70.1627,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Dominican_Republic_Civil_War' target='_blank'>https://en.m.wikipedia.org/wiki/Dominican_Republic_Civil_War</a>"
+  },
+  {
+    "name": "Turkish War of Independence",
+    "date": "1919-1923",
+    "location": "Turkey",
+    "latitude": 38.9637,
+    "longitude": 35.2433,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Turkish_War_of_Independence' target='_blank'>https://en.m.wikipedia.org/wiki/Turkish_War_of_Independence</a>"
+  },
+  {
+    "name": "Uzbekistani Revolution",
+    "date": "1989-1991",
+    "location": "Uzbekistan",
+    "latitude": 41.3775,
+    "longitude": 64.5853,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Central_Asian_Revolutions' target='_blank'>https://en.m.wikipedia.org/wiki/Central_Asian_Revolutions</a>"
+  },
+  {
+    "name": "Mongolian Revolution",
+    "date": "1990",
+    "location": "Mongolia",
+    "latitude": 42.7059,
+    "longitude": 105.9381,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/Mongolian_Democratic_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/Mongolian_Democratic_Revolution</a>"
+  },
+  {
+    "name": "French Revolution",
+    "date": "1789",
+    "location": "Kingdom of France",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "details": "<a href='https://en.m.wikipedia.org/wiki/French_Revolution' target='_blank'>https://en.m.wikipedia.org/wiki/French_Revolution</a>"
+  }
+]
+}
