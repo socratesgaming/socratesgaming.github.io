@@ -22,7 +22,7 @@ function initializeMap(revolutions, rpm) {
     });
 
     // Set rotation speed (radian/minute)
-    const rotationSpeed = 10000 * rpm * 2 * Math.PI / 60; // Convert RPM to radian and speed it up a bit
+    const rotationSpeed = 10000 * rpm * 2 * Math.PI / 60; // Convert RPM to radian and increase speed
 
     //Start rotation animation
     function rotateMap() {
